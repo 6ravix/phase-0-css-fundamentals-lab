@@ -1,5 +1,30 @@
-body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
-}
+
+  body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    text-align: center;
+  }
+  p idfeatured-property {
+    width: 800px;
+    text-align: center;
+  }
+  a {
+    padding-left: 10px 10px;
+    background-color: gray;
+  }
+    
+
+
+
+div {
+  float: left;
+  
+   background-color: red; 
+   text-align: center;
+   width: 25%;
+  }
+
+
+
+
